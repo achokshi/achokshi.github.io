@@ -10,7 +10,8 @@ locale                   : "en-US"
 title                    : "Apoorve Chokshi"
 title_separator          : "-"
 name                     : &name "Apoorve Chokshi"
-description              : &description "educational researcher<br/>computer science education"
+# description              : &description "educational researcher<br/>computer science education"
+description              : description "educational researcher"
 url                      : http://www.chokshi.ca # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "achokshi.github.io"
@@ -29,7 +30,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : dark # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
