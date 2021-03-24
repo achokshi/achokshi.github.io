@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Apoorve Chokshi"
+# title: "Apoorve Chokshi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
