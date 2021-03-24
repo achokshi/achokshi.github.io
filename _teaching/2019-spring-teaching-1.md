@@ -1,5 +1,5 @@
 ---
-title: "Wesbite Development Fundamentals"
+title: "CPRG 256, Website Development Fundamentals"
 collection: teaching
 type: "College course"
 permalink: /teaching/2019-spring-teaching-1
